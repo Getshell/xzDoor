@@ -1,2 +1,34 @@
-# xzDoor
-XZ Utils backdoor
+# XZ Utils backdoor Records
+
+- https://github.com/JiaT75
+- https://github.com/tukaani-project/xz
+- https://research.swtch.com/xz-timeline
+- https://tukaani.org/xz-backdoor
+- https://www.openwall.com/lists/oss-security/2024/03/29/4
+- https://gist.github.com/thesamesam/223949d5a074ebc3dce9ee78baad9e27
+- https://github.com/amlweems/xzbot
+- https://github.com/lockness-Ko/xz-vulnerable-honeypot
+- https://github.com/Midar/xz-backdoor-documentation/wiki
+- https://github.com/ald3ns/xz-backdoor-github-analysis
+- https://github.com/emirkmo/xz-backdoor-github
+- https://github.com/0xlane/xz-cve-2024-3094
+- https://github.com/hamarituc/xz-backdoor
+- https://github.com/luvletter2333/xz-backdoor-analysis
+- https://github.com/smx-smx/xzre
+- https://github.com/thesamesam/xz-archive
+- https://github.com/letsbuilda/xz-backdoor
+- https://github.com/devjanger/CVE-2024-3094-XZ-Backdoor-Detector
+- https://urbanhacker.net/a-closer-look-at-the-social-engineering-behind-the-xz-backdoor-part-one/
+- https://github.com/przemoc/xz-backdoor-links
+- https://github.com/prototux/xz-backdoor-recreation
+- https://github.com/infosecsingh/xz-backdoor-detector
+- https://github.com/Sunwood-ai-labs/xz-utils-backdoor-experiment
+- https://github.com/rezigned/xz-backdoor-container-image
+- https://github.com/supriyo-biswas/xz-mirror
+- https://github.com/byinarie/CVE-2024-3094-info
+- https://github.com/jfrog/cve-2024-3094-tools
+- https://mp.weixin.qq.com/s/KzIhfGwKygcKUrlN42dv-Q
+- https://mp.weixin.qq.com/s/4ju-aG027mFJC2r9HbCaPQ
+- https://twitter.com/fr0gger_/status/1774342248437813525
+- https://t.co/RE5DNbZDEw
+- https://www.crowdstrike.com/blog/cve-2024-3094-xz-upstream-supply-chain-attack/
