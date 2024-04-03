@@ -34,3 +34,4 @@
 - https://www.crowdstrike.com/blog/cve-2024-3094-xz-upstream-supply-chain-attack/
 - https://boehs.org/node/everything-i-know-about-the-xz-backdoor
 - https://paper.seebug.org/3140/
+- https://marcoramilli.com/2024/04/03/xz-utils-backdoor-cve-2024-3094-personal-notes
