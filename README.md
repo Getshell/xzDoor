@@ -32,3 +32,5 @@
 - https://twitter.com/fr0gger_/status/1774342248437813525
 - https://t.co/RE5DNbZDEw
 - https://www.crowdstrike.com/blog/cve-2024-3094-xz-upstream-supply-chain-attack/
+- https://boehs.org/node/everything-i-know-about-the-xz-backdoor
+- https://paper.seebug.org/3140/
