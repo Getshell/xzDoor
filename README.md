@@ -35,3 +35,6 @@
 - https://boehs.org/node/everything-i-know-about-the-xz-backdoor
 - https://paper.seebug.org/3140/
 - https://marcoramilli.com/2024/04/03/xz-utils-backdoor-cve-2024-3094-personal-notes
+- https://mp.weixin.qq.com/s/DFXa2DOb2VyxyFFWDRt2Cg
+- https://mp.weixin.qq.com/s/JqtEpeQgmjbGaXGj5R3pgQ
+- https://mp.weixin.qq.com/s/RWoGQc5qmx-Pp7QFof01_Q
